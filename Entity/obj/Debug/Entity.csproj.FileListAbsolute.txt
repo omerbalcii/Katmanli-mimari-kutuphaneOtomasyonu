@@ -1,0 +1,12 @@
+﻿C:\Users\Emir\Desktop\Görselfinal\Entity\bin\Debug\Entity.dll
+C:\Users\Emir\Desktop\Görselfinal\Entity\bin\Debug\Entity.pdb
+C:\Users\Emir\Desktop\Görselfinal\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Emir\Desktop\Görselfinal\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Görselfinal\Entity\obj\Debug\Entity.dll
+C:\Users\Emir\Desktop\Görselfinal\Entity\obj\Debug\Entity.pdb
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\bin\Debug\Entity.dll
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\bin\Debug\Entity.pdb
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\obj\Debug\Entity.dll
+C:\Users\Emir\Desktop\görsell\Görselfinal\Entity\obj\Debug\Entity.pdb
